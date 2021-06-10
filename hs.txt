@@ -1,0 +1,5 @@
+Lukasz;8
+ukaf;8
+imie;3
+Gracz;1
+;0
